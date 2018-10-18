@@ -18,7 +18,7 @@ aliyun:
 
 jwt:
   secret: abcdefg
-  expiration: 82800   
+  expiration: 82800  
 
 spring:
   redis:
